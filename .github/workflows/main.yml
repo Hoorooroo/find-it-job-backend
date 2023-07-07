@@ -1,5 +1,5 @@
-name: find-it-job-backend AWS CICD
-run-name: find-it-job-backend CICD
+name: find-it-job-backend AWS CI/CD
+run-name: find-it-job-backend AWS CI/CD
 on:
   push:
     branches:
