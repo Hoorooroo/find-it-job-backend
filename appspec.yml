@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source:  /
-    destination: /home/ubuntu/find-it-backend-job
+    destination: /home/ubuntu/find-it-job-backend
     overwrite: yes
 
 permissions:
