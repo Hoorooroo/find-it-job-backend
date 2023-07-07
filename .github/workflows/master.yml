@@ -3,7 +3,7 @@ run-name: Go Go
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build-with-gradle:
     runs-on: ubuntu-20.04
