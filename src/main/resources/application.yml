@@ -4,8 +4,8 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     # TODO: Put JDBC URL
-    url: jdbc:mysql://localhost:3306/find-it-job?useUnicode=true&characterEncoding=utf8&allowPublicKeyRetrieval=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Asia/Seoul&createDatabaseIfNotExist=true
-    username: root
+    url: jdbc:mysql://localhost:3306/find_it_job?useUnicode=true&characterEncoding=utf8&allowPublicKeyRetrieval=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Asia/Seoul&createDatabaseIfNotExist=true
+    username: s2
     password: audgn811
     hikari:
       poolName: Hikari
